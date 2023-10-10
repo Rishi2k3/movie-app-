@@ -1,4 +1,4 @@
-let api= "http://www.omdbapi.com/?apikey=48c283bf&t=";
+let api= "https://www.omdbapi.com/?apikey=48c283bf&t=";
 
 const description = document.getElementById('desc')
 const released = document.getElementById('released');
